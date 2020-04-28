@@ -12,7 +12,7 @@ namespace ConsoleApp5
          static void Main(string[] args)
         {   //Methode ohne Rückgabewert
             //Aufruf der Methode Rechnung1 mit Variable ergebnis und Parameterübergabe
-            Rechnung1(12.55, 144.897);
+            Rechnung1(12.55, 21.22);
             Console.WriteLine();
         
             // ----------------------------------------------
