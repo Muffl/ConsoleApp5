@@ -23,7 +23,7 @@ namespace ConsoleApp5
             // Der Returnwert (hier addieren) wird in die Varibable ergebnis übergeben
 
             //Ausgabe der Varibale ergebnis
-            Console.WriteLine(ergebnis);
+            Console.WriteLine("Das Ergbnis ist. "+ ergebnis);
         
 
             //Alternativer Aufruf der Methode mit Rückgabewert
